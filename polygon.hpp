@@ -4,9 +4,7 @@
 #include <cstddef>
 #include <glm/fwd.hpp>
 #include <glm/trigonometric.hpp>
-#include <iostream>
 #include <iterator>
-#include <memory>
 #include <string>
 #include <string_view>
 #include <type_traits>

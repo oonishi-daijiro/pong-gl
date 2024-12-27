@@ -2,15 +2,11 @@
 
 #include <cmath>
 #include <corecrt.h>
-#include <cstddef>
 #include <cstdlib>
 #include <cwchar>
 #include <glm/fwd.hpp>
-#include <iostream>
-#include <iterator>
 #include <map>
 #include <memory>
-#include <ostream>
 #include <string>
 #include <string_view>
 #include <tuple>

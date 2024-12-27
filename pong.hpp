@@ -1,6 +1,5 @@
 #pragma once
 
-#include <bitset>
 #include <cstdlib>
 #include <cwchar>
 #include <map>

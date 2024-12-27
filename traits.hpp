@@ -1,12 +1,7 @@
 #pragma once
 
-#include <fstream>
-#include <memory>
-#include <string>
-
 #include <GL/glew.h>
 #include <GLFW/glfw3.h>
-#include <string_view>
 
 class Drawable {
 public:

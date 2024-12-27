@@ -1,10 +1,7 @@
 #pragma once
 
 #include "freetype/fttypes.h"
-#include <cstdint>
-#include <iostream>
 #include <mutex>
-#include <string>
 #include <string_view>
 
 #include <freetype2/ft2build.h>

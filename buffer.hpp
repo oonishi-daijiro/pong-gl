@@ -1,13 +1,7 @@
 #pragma once
 
-#include <array>
 #include <bits/utility.h>
-#include <initializer_list>
-#include <iostream>
 #include <span>
-#include <thread>
-#include <type_traits>
-#include <vector>
 
 #include <GL/glew.h>
 #include <GLFW/glfw3.h>
