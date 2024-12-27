@@ -1,5 +1,4 @@
 #pragma once
-
 #include <cmath>
 #include <corecrt.h>
 #include <cstdlib>
@@ -11,10 +10,12 @@
 #include <string_view>
 #include <tuple>
 #include <utility>
+#include <vector>
 
 #include <GL/glew.h>
 #include <GLFW/glfw3.h>
 
+#define GLM_ENABLE_EXPERIMENTAL
 #include <glm/glm.hpp>
 #include <glm/gtx/string_cast.hpp>
 

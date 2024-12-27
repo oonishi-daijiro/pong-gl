@@ -1,20 +1,12 @@
-#include <chrono>
 #include <codecvt>
 #include <cstddef>
 #include <cwchar>
 #include <glm/fwd.hpp>
-#include <initializer_list>
-#include <ios>
 #include <iostream>
+#include <locale>
 #include <opencv4/opencv2/imgcodecs.hpp>
-#include <span>
-#include <sstream>
 #include <string>
 #include <string_view>
-#include <thread>
-#include <tuple>
-#include <utility>
-#include <vector>
 
 #include <GL/glew.h>
 #include <GLFW/glfw3.h>

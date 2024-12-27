@@ -1,6 +1,7 @@
 #pragma once
 
 #include <cwchar>
+#include <fstream>
 #include <iostream>
 #include <map>
 #include <memory>

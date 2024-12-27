@@ -54,7 +54,7 @@ public:
   bool empty() { return isEmpty; }
 
 private:
-  const size_t size;
+  size_t size;
 
   int usage;
   bool isEmpty = true;
